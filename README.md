@@ -13,12 +13,12 @@ One can:
 
 
 ## Features of the app
-- Uses Firebase Realtime Database to maintain the entries made through the application. <br>(Database is developed on a static json object (File_name: static_data.json) as mentioned in the problem statement.)
+- Uses Firebase Realtime Database to maintain the entries made through the application. <br>(Database is developed on a static json object (File_name: static_data.json))
 - The database is constantly changed dynamically through firebase functions such as get, set, update, remove,etc.
 - Uses Chart.js to create and display a 'doughnut' chart of the current data in the database everytime the Visualise button is clicked.<br> This chart shows the distribution of skills among the employees.
 - Regular alerts prompted after user inputs to inform the user about the status of his/her input.
 - Collapsible display options for Update Database Form, Table Display and Pie Chart Display, making the webpage look concise and clear.
-- A favicon of 180DC logo has also been included alongside title of the html file
+- A favicon (logo) has also been included alongside title of the html file
 
 
 #### Updating Database Form Feature:
@@ -47,6 +47,7 @@ The firebase realtime database can be updated through this form: <br>
 ## Setup Instructions:
       - Download all the files on the page by navigating through Code -> Download Zip
       - Extract the files and make sure all of them are included in the same folder.
+      - Once one has accessed the application, they can also view the videos in the Video_link file to see a quick demonstration of the working project.
 
 
 
