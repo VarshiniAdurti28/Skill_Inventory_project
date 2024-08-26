@@ -1,0 +1,29 @@
+{
+  "Employee": {"Varshini": {"NAME": "Varshini", 
+                            "SKILLSET": {"ML": {"SKILL_NAME": "ML",
+                                                "SKILL_LEVEL": "Beginner"}},
+                        
+                            "LAST_UPDATED_ON": "2024-08-01"},
+        
+                "Jaya": {"NAME": "Jaya", 
+                        "SKILLSET": {"Web3":{"SKILL_NAME": "Web3",
+                                             "SKILL_LEVEL": "Intermediate"},
+
+                                     "Pytorch":{"SKILL_NAME": "Pytorch",
+                                                "SKILL_LEVEL": "Amateur"}},
+
+                            
+                        "LAST_UPDATED_ON": "2024-08-01"},
+                
+                "Nishanth":{"NAME": "Nishanth", 
+                            "SKILLSET": {"NLP":{"SKILL_NAME": "NLP",
+                                                "SKILL_LEVEL": "Amateur"},
+
+                                        "Financial Management":{"SKILL_NAME": "Financial Management",
+                                                                "SKILL_LEVEL": "Beginner"}},
+                          
+                           "LAST_UPDATED_ON": "2024-08-01"}}
+
+
+
+}
