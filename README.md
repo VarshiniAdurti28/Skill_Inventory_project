@@ -48,6 +48,7 @@ The firebase realtime database can be updated through this form: <br>
       - Download all the files on the page by navigating through Code -> Download Zip
       - Extract the files and make sure all of them are included in the same folder.
       - Once one has accessed the application, they can also view the videos in the Video_link file to see a quick demonstration of the working project.
+      - You can also check the Video_link folder for a quick demo of the page.
 
 
 
